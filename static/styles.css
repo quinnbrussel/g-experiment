@@ -1,0 +1,32 @@
+.header
+{
+    font-size: 60px;
+    color: white;
+}
+body {
+    background-color: grey;
+}
+.tangerine {
+    font-family: 'Tangerine', cursive;
+}
+.center {
+    margin: auto;
+    width: 100%;
+    padding: 10px;
+}
+.question-padding {
+    padding-bottom: 20px;
+}
+.background-black {
+    background-color: #343a40;
+}
+.size {
+    width: 50%;
+}
+.centered {
+    text-align: center;
+}
+
+.large {
+    font-size: large;
+}
